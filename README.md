@@ -52,6 +52,16 @@
 
 ###
 
+<h2 align="left">Current Activities</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+</div>
+
+###
+
 <h2 align="left">Social Links</h2>
 
 ###
